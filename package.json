@@ -1,0 +1,20 @@
+{
+  "name": "sass_sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjdc28/sass_sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjdc28/sass_sandbox/issues"
+  },
+  "homepage": "https://github.com/bjdc28/sass_sandbox#readme"
+}
