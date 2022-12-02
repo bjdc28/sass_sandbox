@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bjdc28/sass_sandbox/issues"
   },
-  "homepage": "https://github.com/bjdc28/sass_sandbox#readme"
+  "homepage": "https://github.com/bjdc28/sass_sandbox#readme",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
 }
